@@ -41,4 +41,3 @@ The script generates the following output files in the working directory:
 - Intermediate files that are not used for later analysis are not removed. Consider creating a cleaning script for this purpose.
 - Ensure that all required tools are installed and accessible in the system's PATH.
 
-Feel free to customize the script according to your specific requirements or integrate it into your bioinformatics workflow.
